@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ALLWINNER_A64
+D Mobile Application Processor
+F http://wiki.friendlyarm.com/wiki/images/d/d9/Allwinner_A64_Datasheet_V1.1.pdf
+$ENDCMP
+#
 $CMP AP6256
 D WIFI
 $ENDCMP
@@ -7,6 +12,16 @@ $ENDCMP
 $CMP LTK5128
 D SOP-8
 F https://pdf1.alldatasheet.com/datasheet-pdf/view/1132547/ETC2/LTK5128.html
+$ENDCMP
+#
+$CMP MT29F8G08ADAFAWP-AIT_F_TR
+D NAND Flash SLC 8G 1GX8 TSOP DDP
+F https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adafawp-ait?modal={89F0AB92-C039-4EF6-850D-62E989ADCE61}&did={BF43CBAD-8A0B-4F69-AE8A-685058C8EDD3}
+$ENDCMP
+#
+$CMP NT5CB128M16FP-DI
+D Commercial, Industrial and Automotive DDR3(L) 2Gb SDRAM
+F https://www.alldatasheet.com/datasheet-pdf/pdf/1132512/NANYA/NT5CB128M16FP-DI.html
 $ENDCMP
 #
 $CMP PAM8403DR

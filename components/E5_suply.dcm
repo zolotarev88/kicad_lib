@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AXP803
+D PMIC Optimized For Multi-Core High Performance System
+F http://files.pine64.org/doc/datasheet/pine64/AXP803_Datasheet_V1.0.pdf
+$ENDCMP
+#
+$CMP LM5109BMA_NOPB
+D High Voltage 1A Peak Half Bridge Gate Driver
+F https://www.ti.com/lit/ds/symlink/lm5109b.pdf?&ts=1589796264918
+$ENDCMP
+#
 $CMP MP2144GJ-Z
 D Switching Voltage Regulators 2A, 5.5V, 1.2MHz Sync Stp-Dwn Swtchr
 F https://componentsearchengine.com/Datasheets/1/MP2144GJ-Z.pdf
