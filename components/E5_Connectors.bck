@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1775862-2
+D PCI Express / PCI Connectors mSATA/mini PCI-E 5.2H Type I G/F
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1775862&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1775862-2
+$ENDCMP
+#
+$CMP 2041021-4
+D TE Connectivity 9 Way Push/Pull SD Card Memory Card Connector with Solder Termination
+F http://www.te.com/catalog/pn/en/2041021-4?RQPN=2041021-4
+$ENDCMP
+#
+$CMP 47553-2001
+D 1.27mm Pitch SIM Card Holder Push-Push 1.27mm Pitch SIM Card Holder Push-Push
+F http://www.molex.com/webdocs/datasheets/pdf/en-us/0475532001_MEMORY_CARD_SOCKET.pdf
+$ENDCMP
+#
+$CMP DG301-5.0-2P-12
+D PCB terminal block; angled 90; 5mm; ways:2; on PCBs; 1.5mm2; blue
+F https://www.tme.eu/gb/Document/72ad9f371bb0c16572574ac47903b3a1/DG301-5.0.pdf
+$ENDCMP
+#
+$CMP DG301-5.0-3P-12
+D PCB terminal block; angled 90; 5mm; ways:3; on PCBs; 1.5mm2; blue
+F https://www.tme.eu/gb/Document/72ad9f371bb0c16572574ac47903b3a1/DG301-5.0.pdf
+$ENDCMP
+#
+$CMP DG381-3.81-02P-14-00AH
+D 2 position connector
+F https://sds.compel.ru/item-pdf/0c153b2fa04bf074dbf730c0452b207e/ps/degson~dg381-3.5-3.81.pdf
+$ENDCMP
+#
+#End Doc Library
