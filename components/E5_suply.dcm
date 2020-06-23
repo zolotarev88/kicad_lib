@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP2144GJ-Z
+D Switching Voltage Regulators 2A, 5.5V, 1.2MHz Sync Stp-Dwn Swtchr
+F https://componentsearchengine.com/Datasheets/1/MP2144GJ-Z.pdf
+$ENDCMP
+#
+$CMP MP3202DJ-LF-Z
+D LED Lighting Drivers 39 WLED, 1.3MHz Boost Driver
+F https://componentsearchengine.com/Datasheets/1/MP3202DJ-LF-Z.pdf
+$ENDCMP
+#
+$CMP MP3221GJ-P
+D Switching Voltage Regulators 2.7A, 1.2MHz, Step up Converter
+F https://www.monolithicpower.com/pub/media/document/MP3221_r1.0.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP6256
+D WIFI
+$ENDCMP
+#
+$CMP LTK5128
+D SOP-8
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/1132547/ETC2/LTK5128.html
+$ENDCMP
+#
+$CMP PAM8403DR
+D Class-D Stereo Audio Amp 5V 2x3W SOP16 DiodesZetex PAM8403DR Audio Amplifier, Class-D Stereo, 16-Pin SOP
+F http://docs-emea.rs-online.com/webdocs/1268/0900766b81268cf7.pdf
+$ENDCMP
+#
+$CMP PN5180A0HN_C1E
+D NXP - PN5180A0HN/C1E - RFID, NFC, 13.56MHZ, HVQFN-40
+F http://www.nxp.com/docs/en/data-sheet/PN5180A0XX-C3.pdf
+$ENDCMP
+#
+$CMP PN532_C1
+D RFID Reader/Transponder IC 13.56MHz FeliCa, ISO 14443, MIFARE, NFC IC, SPI, UART 2.7 V ~ 5.5 V 40-VFQFN Exposed Pad
+F https://www.nxp.com/docs/en/data-sheet/PN532_C1_SDS.pdf
+$ENDCMP
+#
+$CMP RDA5807
+D SINGLE-CHIP BROADCAST FM RADIO TUNER
+F http://cxem.net/tuner/files/tuner84_RDA5807M_datasheet_v1.pdf
+$ENDCMP
+#
+#End Doc Library
