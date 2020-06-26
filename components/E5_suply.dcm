@@ -25,4 +25,9 @@ D Switching Voltage Regulators 2.7A, 1.2MHz, Step up Converter
 F https://www.monolithicpower.com/pub/media/document/MP3221_r1.0.pdf
 $ENDCMP
 #
+$CMP SY6280AAC
+D Low Loss Power Distribution Switch
+F https://cdn.datasheetspdf.com/pdf-down/S/Y/6/SY6280-Silergy.pdf
+$ENDCMP
+#
 #End Doc Library
