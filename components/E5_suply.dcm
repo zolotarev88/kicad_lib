@@ -5,6 +5,11 @@ D PMIC Optimized For Multi-Core High Performance System
 F http://files.pine64.org/doc/datasheet/pine64/AXP803_Datasheet_V1.0.pdf
 $ENDCMP
 #
+$CMP H9008
+D st-down 1.5A
+F https://datasheet.lcsc.com/szlcsc/1908191703_Shanghai-Siproin-Microelectronics-H9008_C411007.pdf
+$ENDCMP
+#
 $CMP LM5109BMA_NOPB
 D High Voltage 1A Peak Half Bridge Gate Driver
 F https://www.ti.com/lit/ds/symlink/lm5109b.pdf?&ts=1589796264918
