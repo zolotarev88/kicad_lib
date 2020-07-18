@@ -1,8 +1,18 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 15-24-4441
+D 5.08mm Pitch Disk Drive Power Connection System Header
+F http://docs-emea.rs-online.com/webdocs/13c2/0900766b813c2c8c.pdf
+$ENDCMP
+#
 $CMP 1775862-2
 D PCI Express / PCI Connectors mSATA/mini PCI-E 5.2H Type I G/F
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1775862&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1775862-2
+$ENDCMP
+#
+$CMP 2-2013022-1
+D DIMM Connectors EMBOSS TAPE DDR3 204P 4H STD
+F http://www.mouser.com/datasheet/2/418/NG_CD_2013022_C-638660.pdf
 $ENDCMP
 #
 $CMP 2-2013310-1

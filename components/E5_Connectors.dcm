@@ -10,6 +10,11 @@ D PCI Express / PCI Connectors mSATA/mini PCI-E 5.2H Type I G/F
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1775862&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1775862-2
 $ENDCMP
 #
+$CMP 2-2013022-1
+D DIMM Connectors EMBOSS TAPE DDR3 204P 4H STD
+F http://www.mouser.com/datasheet/2/418/NG_CD_2013022_C-638660.pdf
+$ENDCMP
+#
 $CMP 2-2013310-1
 D TE Connectivity 0.6mm Pitch 204 Way, Right Angle SMT Mount DDR3 DIMM Socket ,1.5 V
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2013310%7FD%7Fpdf%7FEnglish%7FENG_CD_2013310_D.pdf%7F2-2013310-1
