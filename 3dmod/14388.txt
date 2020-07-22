@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"A-USBSA";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"SUPPLIER";"Assmann";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"6741325P";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"USB A type DIP";"";
+"TraceParts.InstanceId";"10-14122010-1158467OESV2HKAZET7U55H22GS2O7W";"";
+"TraceParts.PartTitle";"USB A type DIP";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"21/12/2010 08:28:39";"";
+"REVISION";"A";"";
+"TraceParts.PartNumber";"10-14122010-115846";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSSS_435563/PSS_435835/PSF_435862/10-14122010-115846";"";
