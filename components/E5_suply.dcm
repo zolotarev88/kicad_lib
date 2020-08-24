@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AM1D-0505SZ
+D Converter: DC/DC; 1W; Uin:4.55.5V; 5VDC; Iout:200mA; SIP7; 2.3g
+F https://www.arrow.com/en/products/am1d-0505sz/aimtec
+$ENDCMP
+#
 $CMP AXP803
 D PMIC Optimized For Multi-Core High Performance System
 F http://files.pine64.org/doc/datasheet/pine64/AXP803_Datasheet_V1.0.pdf

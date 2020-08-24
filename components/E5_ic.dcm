@@ -5,6 +5,16 @@ D Temperature Sensor Development Tools Temperature-Humidity Sensor-DHT22(AM2302)
 F https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf
 $ENDCMP
 #
+$CMP 74HC1G00GW-Q100H
+D 74HC(T)1G00-Q100 - 2-input NAND gate@en-us
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT1G00_Q100.pdf
+$ENDCMP
+#
+$CMP ADM2682EBRIZ
+D RS-485 Transceiver 5kV RMS Isolated SO16 Analog Devices ADM2682EBRIZ, Line Transceiver, ANSI/ EIA/TIA-485-A/ ISO 8482:1987-E, 3.3  5 V, 16-Pin SOIC
+F http://uk.rs-online.com/web/p/products/7968978
+$ENDCMP
+#
 $CMP ALLWINNER_A64
 D Mobile Application Processor
 F http://wiki.friendlyarm.com/wiki/images/d/d9/Allwinner_A64_Datasheet_V1.1.pdf
@@ -12,6 +22,11 @@ $ENDCMP
 #
 $CMP AP6256
 D WIFI
+$ENDCMP
+#
+$CMP LM60QIM3_NOPB
+D Automotive Grade, +/-2C Analog Output Temperature Sensor
+F http://www.ti.com/lit/gpn/lm60-q1
 $ENDCMP
 #
 $CMP LTK5128
@@ -27,6 +42,11 @@ $ENDCMP
 $CMP NT5CB128M16FP-DI
 D Commercial, Industrial and Automotive DDR3(L) 2Gb SDRAM
 F https://www.alldatasheet.com/datasheet-pdf/pdf/1132512/NANYA/NT5CB128M16FP-DI.html
+$ENDCMP
+#
+$CMP NT6AN256T32AV-J2
+D LPDDR4x 8GB
+F https://www.nanya.com/en/Product/4296/NT6AN256T32AV-J2
 $ENDCMP
 #
 $CMP PAM8403DR

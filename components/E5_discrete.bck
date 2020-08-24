@@ -5,6 +5,21 @@ D Bipolar Transistors - Pre-Biased NPN Silicon Digital TRANSISTOR
 F http://docs-emea.rs-online.com/webdocs/009c/0900766b8009c01d.pdf
 $ENDCMP
 #
+$CMP NSS1C201LT1G
+D NPN Bipolar Transistor, 3 A 100 V, 3-pin SOT-23
+F http://www.onsemi.com/pub/Collateral/NSS1C201L-D.PDF
+$ENDCMP
+#
+$CMP PS2801C-1-F3-A
+D NEC - PS2801C-1-F3-A - OPTOCOUPLER, TR O/P, SSOP-4
+F http://www.farnell.com/datasheets/89583.pdf
+$ENDCMP
+#
+$CMP SRF0905-202Y
+D Bourns SRF0905 Series Type 0905 Shielded Wire-wound SMD Inductor with a Ferrite Core, 2.2 mH +/-50% Dual 600mA Idc
+F http://www.bourns.com/docs/product-datasheets/srf0905.pdf?sfvrsn=34cc8372_4
+$ENDCMP
+#
 $CMP WPM1481-6_TR
 D http://hands.com/~lkcl/eoma/allwinner/a31/WPM1481.pdf
 F http://hands.com/~lkcl/eoma/allwinner/a31/WPM1481.pdf
