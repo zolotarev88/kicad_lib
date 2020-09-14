@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"SUPPLIER";"Wurth Elektronik";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-09102014-119743";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Wurth Elektronik 687 0.5mm Pitch 6 Way Straight SMT FPC Connector";"";
+"TraceParts.InstanceId";"10-09102014-1197435UFSLFELC7YE2M7YWL1Q2UWT1";"";
+"TraceParts.PartTitle";"Wurth Elektronik 687 0.5mm Pitch 6 Way Straight SMT FPC Connector";"";
+"TraceParts.PartStatusId";"";"";
+"REFERENCE";"68710614522";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/7632613?cm_mmc=en-ds-_-mcad-_-traceparts-_-7632613'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"rs_stock_number";"7632613";"";
+"TraceParts.ClassPath";"";"";
