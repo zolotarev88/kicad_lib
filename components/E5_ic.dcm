@@ -24,6 +24,11 @@ $CMP AP6256
 D WIFI
 $ENDCMP
 #
+$CMP EMMC16G-W525
+D Embedded Multi-Media Card, BGA-153
+F http://static6.arrow.com/aropdfconversion/f5a80e6a63d39e610c65199aa0ae8c62f25199e0/emmc16g-w525-e01u.pdf
+$ENDCMP
+#
 $CMP LM60QIM3_NOPB
 D Automotive Grade, +/-2C Analog Output Temperature Sensor
 F http://www.ti.com/lit/gpn/lm60-q1
