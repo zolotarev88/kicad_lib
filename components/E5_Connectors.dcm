@@ -20,6 +20,11 @@ D TE Connectivity 0.6mm Pitch 204 Way, Right Angle SMT Mount DDR3 DIMM Socket ,1
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2013310%7FD%7Fpdf%7FEnglish%7FENG_CD_2013310_D.pdf%7F2-2013310-1
 $ENDCMP
 #
+$CMP 2013978-1
+D HDMI, Displayport & DVI Connectors HDMI C TYPE REC ASSY DIP-SMT TYPE
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2013978&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
 $CMP 2041021-4
 D TE Connectivity 9 Way Push/Pull SD Card Memory Card Connector with Solder Termination
 F http://www.te.com/catalog/pn/en/2041021-4?RQPN=2041021-4

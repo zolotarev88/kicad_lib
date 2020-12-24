@@ -15,6 +15,11 @@ D NEC - PS2801C-1-F3-A - OPTOCOUPLER, TR O/P, SSOP-4
 F http://www.farnell.com/datasheets/89583.pdf
 $ENDCMP
 #
+$CMP RCLAMP0524PATCT
+D SEMTECH - RCLAMP0524PATCT - TVS ARRAY, 150W, 5V, UNIDIRECTIONAL, SLP2510P8
+F https://www.semtech.com/uploads/documents/rclamp0522p_0524pa.pdf
+$ENDCMP
+#
 $CMP SRF0905-202Y
 D Bourns SRF0905 Series Type 0905 Shielded Wire-wound SMD Inductor with a Ferrite Core, 2.2 mH +/-50% Dual 600mA Idc
 F http://www.bourns.com/docs/product-datasheets/srf0905.pdf?sfvrsn=34cc8372_4

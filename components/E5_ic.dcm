@@ -29,6 +29,16 @@ D Embedded Multi-Media Card, BGA-153
 F http://static6.arrow.com/aropdfconversion/f5a80e6a63d39e610c65199aa0ae8c62f25199e0/emmc16g-w525-e01u.pdf
 $ENDCMP
 #
+$CMP GL823K
+D USB 2.0 SD/MSPRO Card Reader Controller
+F http://www.electrodragon.com/w/images/c/cb/GL823K.pdf
+$ENDCMP
+#
+$CMP IS62WV102416FBLL-45BLI
+D 1Mx16 LOW VOLTAGE,ULTRA LOW POWER CMOS STATIC RAM
+F http://www.issi.com/WW/pdf/62-65WV102416FALL-BLL.pdf
+$ENDCMP
+#
 $CMP LM60QIM3_NOPB
 D Automotive Grade, +/-2C Analog Output Temperature Sensor
 F http://www.ti.com/lit/gpn/lm60-q1
@@ -72,6 +82,16 @@ $ENDCMP
 $CMP RDA5807
 D SINGLE-CHIP BROADCAST FM RADIO TUNER
 F http://cxem.net/tuner/files/tuner84_RDA5807M_datasheet_v1.pdf
+$ENDCMP
+#
+$CMP RTL8723BS
+D IEEE 802.11 b/g/n 2.4GHz 1T1R WiFi with Bluetooth2.1 /3.0/4.0,with SDIO INTERFACE, and HS-UART MIXED INTERFACE
+F http://files.pine64.org/doc/datasheet/pine64/RTL8723BS.pdf
+$ENDCMP
+#
+$CMP TP4056
+D 1A Standalone Linear Li-lon Battery Charger, SOP-8
+F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
 $ENDCMP
 #
 #End Doc Library
