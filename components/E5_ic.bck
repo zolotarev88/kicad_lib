@@ -84,9 +84,24 @@ D SINGLE-CHIP BROADCAST FM RADIO TUNER
 F http://cxem.net/tuner/files/tuner84_RDA5807M_datasheet_v1.pdf
 $ENDCMP
 #
+$CMP RTL8723BS
+D IEEE 802.11 b/g/n 2.4GHz 1T1R WiFi with Bluetooth2.1 /3.0/4.0,with SDIO INTERFACE, and HS-UART MIXED INTERFACE
+F http://files.pine64.org/doc/datasheet/pine64/RTL8723BS.pdf
+$ENDCMP
+#
+$CMP TDA7491HV13TR
+D STMICROELECTRONICS - TDA7491HV13TR - Audio Power Amplifier, 20 W, D, 2 Channel, 5V to 18V, PowerSSO, 36 Pins
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00178777.pdf
+$ENDCMP
+#
 $CMP TP4056
 D 1A Standalone Linear Li-lon Battery Charger, SOP-8
 F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+$ENDCMP
+#
+$CMP TPA3138D2PWPR
+D 10W 3.5V14.4V Inductor-Free Stereo Analog Input Class-D Audio Amplifier
+F http://www.ti.com/lit/gpn/tpa3138d2
 $ENDCMP
 #
 #End Doc Library
