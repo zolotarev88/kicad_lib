@@ -104,4 +104,19 @@ D 10W 3.5V14.4V Inductor-Free Stereo Analog Input Class-D Audio Amplifier
 F http://www.ti.com/lit/gpn/tpa3138d2
 $ENDCMP
 #
+$CMP WM8904CGEFL_V
+D Interface - CODECs Ultra Low Pwr CODEC
+F https://statics.cirrus.com/pubs/proDatasheet/WM8904_Rev4.0.pdf
+$ENDCMP
+#
+$CMP WM8960CGEFL_V
+D WOLFSON MICROELECTRONICS - WM8960CGEFL/V - AUDIO CODEC, 24BIT, 48KSPS, QFN-32
+F https://componentsearchengine.com/Datasheets/2/WM8960CGEFL_V.pdf
+$ENDCMP
+#
+$CMP WM8962BECSN_R
+D Interface - CODECs Stereo CODEC with Audio Enhancement
+F https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/WM8962B_v4.2.pdf
+$ENDCMP
+#
 #End Doc Library
