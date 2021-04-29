@@ -35,6 +35,11 @@ D Switching Voltage Regulators 2.7A, 1.2MHz, Step up Converter
 F https://www.monolithicpower.com/pub/media/document/MP3221_r1.0.pdf
 $ENDCMP
 #
+$CMP SI3402-B-GMR
+D Power Over Ethernet PD Controller 20-Pin QFN EP
+F https://www.silabs.com/documents/public/data-sheets/si3404-datasheet.pdf
+$ENDCMP
+#
 $CMP SY6280AAC
 D Low Loss Power Distribution Switch
 F https://cdn.datasheetspdf.com/pdf-down/S/Y/6/SY6280-Silergy.pdf
