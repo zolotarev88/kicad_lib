@@ -29,6 +29,16 @@ D Embedded Multi-Media Card, BGA-153
 F http://static6.arrow.com/aropdfconversion/f5a80e6a63d39e610c65199aa0ae8c62f25199e0/emmc16g-w525-e01u.pdf
 $ENDCMP
 #
+$CMP ESP32-D0WDQ6-V3
+D IC RF TXRX+MCU BLUETOOTH WIFI
+F https://componentsearchengine.com/Datasheets/1/ESP32-D0WDQ6-V3.pdf
+$ENDCMP
+#
+$CMP ESP32-WROOM-32D
+D WiFi Modules (802.11) SMD Module, ESP32-D0WD, 32Mbits SPI flash, UART mode, PCB antenna
+F https://www.mouser.com/datasheet/2/891/esp32-wroom-32d_esp32-wroom-32u_datasheet_en-1365844.pdf
+$ENDCMP
+#
 $CMP GL823K
 D USB 2.0 SD/MSPRO Card Reader Controller
 F http://www.electrodragon.com/w/images/c/cb/GL823K.pdf
@@ -37,6 +47,11 @@ $ENDCMP
 $CMP IS62WV102416FBLL-45BLI
 D 1Mx16 LOW VOLTAGE,ULTRA LOW POWER CMOS STATIC RAM
 F http://www.issi.com/WW/pdf/62-65WV102416FALL-BLL.pdf
+$ENDCMP
+#
+$CMP LAN8720AI-CP
+D Low Power RMII 10/100 Ethernet PHY QFN24 Microchip LAN8720AI-CP Ethernet Transceiver, IEEE 802.3u, 10 Mbps, 100 Mbps 3.3 V, 24-Pin QFN
+F https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjGl5_d37zTAhWEzLwKHbBoDIcQFggtMAA&url=http%3A%2F%2Fww1.microchip.com%2Fdownloads%2Fen%2FDeviceDoc%2F8720a.pdf&usg=AFQjCNFoU2nZm82pCkYmXCM03nIDk6IgUw&sig2=Buc4Da-3A
 $ENDCMP
 #
 $CMP LM60QIM3_NOPB
@@ -92,6 +107,11 @@ $ENDCMP
 $CMP TDA7491HV13TR
 D STMICROELECTRONICS - TDA7491HV13TR - Audio Power Amplifier, 20 W, D, 2 Channel, 5V to 18V, PowerSSO, 36 Pins
 F http://www.st.com/web/en/resource/technical/document/datasheet/CD00178777.pdf
+$ENDCMP
+#
+$CMP TD_H_541S485H
+D DFN package isolated RS485 Transceiver
+F https://www.mornsun-power.com/public/uploads/pdf/TD(H)541S485H.pdf
 $ENDCMP
 #
 $CMP TP4056
