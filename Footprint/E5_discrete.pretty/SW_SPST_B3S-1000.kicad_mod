@@ -42,4 +42,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "C:/work/board_pro/LIB/kicad_lib/3dmod/User Library-PTS645SL43SMTR92-LFS.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
