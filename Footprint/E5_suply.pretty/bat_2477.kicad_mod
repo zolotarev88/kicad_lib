@@ -15,10 +15,15 @@
     (tstamp 5bd11811-62c6-49e4-8558-33c2f4d0b582)
   )
   (fp_circle (center 0 0) (end 12 0) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 78f8d61f-e308-497d-b2c0-b15ff8af5d4d))
-  (pad "1" thru_hole oval (at 0 -12.4) (size 5 1.6) (drill oval 4.2 0.8) (layers *.Cu *.Mask) (tstamp 15b427e4-47b8-4725-adce-27fae8b88977))
-  (pad "2" thru_hole oval (at 0 7.8) (size 5 1.6) (drill oval 4.2 0.8) (layers *.Cu *.Mask) (tstamp 51997694-de7d-4a45-b09f-ad6f5c9648dd))
+  (pad "1" smd rect (at 0 -12.4) (size 10 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 15b427e4-47b8-4725-adce-27fae8b88977))
+  (pad "2" smd rect (at 0 12) (size 10 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 51997694-de7d-4a45-b09f-ad6f5c9648dd))
   (model "C:/work/board_pro/LIB/kicad_lib/3dmod/User Library-CR2477.STEP"
     (offset (xyz -7 18.5 -9.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+  (model "C:/work/hardware/kicad_lib/kicad_lib/3dmod/User Library-CR2477.STEP"
+    (offset (xyz -7.3 18.5 -10))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
