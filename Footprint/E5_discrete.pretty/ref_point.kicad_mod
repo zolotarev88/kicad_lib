@@ -1,0 +1,18 @@
+(footprint "ref_point" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp cba23238-39f9-410a-85ab-9992ea078ce7)
+  )
+  (fp_text value "ref_point" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 82bd911e-8b59-438b-8c63-d3ba8df7d66c)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ebadff0c-b56d-4c7b-85b5-c2dc6a7d7d4d)
+  )
+  (pad "1" smd circle (at 0 0) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.5) (clearance 0.5) (tstamp 98ac11c5-1bc7-4c1b-af51-dd9e316e7b4c))
+)
