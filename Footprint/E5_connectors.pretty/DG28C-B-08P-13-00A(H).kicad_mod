@@ -1,0 +1,207 @@
+(footprint "DG28C-B-08P-13-00A(H)"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -3 -6.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "186c7c09-b41a-4586-abfb-a6a4903cd411")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DG28C-B-08P-13-00A(H)"
+		(at 11 4.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c1585eb6-8dd7-429e-8d4d-92fd6224cecb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "396ee0ae-2fe8-4e34-ac22-8d92cd7adcc3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.degson.com/index.php?a=downloadFile&id=3830639&name=%27ZmlsZTQ=%27&lang=en"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c5675b8-ef20-40ad-8b88-9ab06f129e12")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Single-layer PCB barrier terminal blocks,Rated current:15A.Rated voltage （UL）:300V,Cross section:22-14AWG,pitch:7.62mm,Color:black,Contact surface :Tin"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d145aa2-2296-4964-910b-ffeb1ccd2cde")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.4 -6)
+		(end 58.6 -6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d89cdf02-f55c-42e2-8ffa-d80b8652e96a")
+	)
+	(fp_line
+		(start -5.4 0)
+		(end -5.4 -6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "564aded1-1708-4d2a-bd1f-bad5fcf65c01")
+	)
+	(fp_line
+		(start -5.4 6)
+		(end -5.4 0)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "99301a27-54b7-4d8d-8efb-086a061ecf13")
+	)
+	(fp_line
+		(start 58.6 -6)
+		(end 58.6 6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2c88ceb4-ff81-48aa-b4cf-9e01b49af356")
+	)
+	(fp_line
+		(start 58.6 6)
+		(end -5.4 6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "31c99f68-215c-473e-a7b8-b55d612c4a32")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -1 8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b2faa71a-102c-4631-88cf-471652dbb669")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 3.5 3.5)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "841acf60-874e-4a84-9116-11800d6ea087")
+	)
+	(pad "2" thru_hole circle
+		(at 7.62 0)
+		(size 3.5 3.5)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3a094e27-500f-4474-b56f-4c7f02896c37")
+	)
+	(pad "3" thru_hole circle
+		(at 15.24 0)
+		(size 3.5 3.5)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "64739067-26f5-4dc0-aa05-be3b7473c596")
+	)
+	(pad "4" thru_hole circle
+		(at 22.86 0)
+		(size 3.5 3.5)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "db5861ae-1296-4e8d-a7d6-0d1c0a29c68a")
+	)
+	(pad "5" thru_hole circle
+		(at 30.48 0)
+		(size 3.5 3.5)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "afa5a94b-1d08-4068-a1a1-1489cc4bdea2")
+	)
+	(pad "6" thru_hole circle
+		(at 38.1 0)
+		(size 3.5 3.5)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d220b209-6646-40c1-93ff-4dcbad787c25")
+	)
+	(pad "7" thru_hole circle
+		(at 45.72 0)
+		(size 3.5 3.5)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "178ee39f-0509-455a-9a9d-437900b66286")
+	)
+	(pad "8" thru_hole circle
+		(at 53.34 0)
+		(size 3.5 3.5)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "dea8b5db-429a-42d4-9d50-332e62abe609")
+	)
+	(model "C:/work/hardware/kicad_lib/kicad_lib/3dmod/DG28C-B-08P-13-00A(H).stp"
+		(offset
+			(xyz 23 7 -4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 90)
+		)
+	)
+)
